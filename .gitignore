@@ -1,0 +1,12 @@
+# Java compiler output
+out/
+*.class
+
+# Generated exports
+campus_lost_found_listings.csv
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
